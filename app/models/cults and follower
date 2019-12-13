@@ -1,0 +1,3 @@
+cult1 = Cult.new("Test", "NYC", 1990, "Learn Love Code")
+
+follower1 = Follower.new("John", 24, "I love cults")
